@@ -1,0 +1,9 @@
+Package: listusb
+Version: 1.0
+Architecture: amd64
+Essential: no
+Priority: optional
+Depends: libusb-1.0-0-dev
+Maintainer: Frederico S. Cyriaco
+Description: A tool to list USB devices attached.
+
